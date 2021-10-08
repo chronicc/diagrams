@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T09:44:25.192Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="IZaCYc-Qd-AEoTSpx0-Q" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T09:46:16.212Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="E5hsQA6ppBWH2GHKWKaI" version="15.4.3" type="github">
   <diagram id="tlyze5TvyV3T4wOIRF3i" name="Page-1">
-    <mxGraphModel dx="2062" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2912" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="MQcFKcroyRyCgttCfnS3-12" value="Push to S3" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MQcFKcroyRyCgttCfnS3-13" value="Backup Data to S3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="40" width="850" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
